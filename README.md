@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @n4dim
-- 👀 I’m interested in front end development
+- 👀 I’m interested in data science and analytics
 - 🌱 I’m currently learning Python for Data Analysis, MySQL and R
 - 📫 You can reach me via my email zikriasmani.work@gmail.com
 
