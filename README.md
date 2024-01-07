@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gussgary&label=Profile%20views&color=0e75b6&style=flat" alt="gussgary" /> </p>
 
-- 🔭 I’m currently working on **Front End Development**
+- 🔭 I’m currently working on **Front End Development & Data Analysis**
 
-- 🌱 I’m currently learning **Javascript, React, Tailwind**
+- 🌱 I’m currently learning **Javascript, React, Tailwind, PostgreSQL**
 
 - 👨‍💻 All of my projects are available at [https://github.com/gussgary](https://github.com/gussgary)
 
