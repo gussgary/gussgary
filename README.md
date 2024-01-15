@@ -5,7 +5,9 @@
 
 - 🔭 I’m currently working on **Front End Development & Data Analysis**
 
-- 🌱 I’m currently learning **Javascript, React, Tailwind, PostgreSQL**
+- 🌱 For Data Analysis, I’m currently learning **Python, SQL, Microsoft PowerBI, R**
+
+- 🌱 For Front-End, I’m currently learning **Javascript, React, Tailwind, PostgreSQL**
 
 - 👨‍💻 All of my projects are available at [https://github.com/gussgary](https://github.com/gussgary)
 
