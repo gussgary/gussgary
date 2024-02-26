@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Zikri Asmani</h1>
-<h3 align="center">Future frontend developer and data analyst</h3>
+<h3 align="center">Future data analyst</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gussgary&label=Profile%20views&color=0e75b6&style=flat" alt="gussgary" /> </p>
 
-- 🔭 I’m currently working on **Front End Development & Data Analysis**
+- 🔭 I’m currently working on **Data Science & Analysis**
 
-- 🌱 For Data Analysis, I’m currently learning **Python, SQL, Microsoft PowerBI, R**
-
-- 🌱 For Front-End, I’m currently learning **Javascript, React, Tailwind, PostgreSQL**
+- 🌱 For Data Analysis, I’m currently learning **Python, SQL, Tableau, R**
 
 - 👨‍💻 All of my projects are available at [https://github.com/gussgary](https://github.com/gussgary)
 
